@@ -1,0 +1,2 @@
+Task (19 Nov.)
+Part1: 芝加哥大学有个类似的项目，然后又一个github。海潮研究一下这个github，看能不能发掘出有用的信息。Part2: 根据已有数据推算出2000到2017年的每个tract的0到13岁的每个年龄的人数和race分布已有数据： 1.2010的每个census tract的0到13岁的每个年龄的人数和race分布（population_2010_accurate.csv,  race_2010.csv）2. 2000年每个census tract的0到13岁的每个年龄段的人数和race分布（http://maps.nyc.gov/census/）3. 2005年到2014年的每一年brooklyn的每个年龄段的人数（http://www1.nyc.gov/site/planning/data-maps/nyc-population/american-community-survey.page）2.1: 把2000年的数据（人口的年龄和race分布）整理成population_2010_accurate.csv 和 race_2010.csv的格式。林伟韬，范饶川2.2: 研究怎么利用已有数据1，2，并参考已有数据3，实现part2的目标。 刘晟
