@@ -1,5 +1,7 @@
 import pandas as pd
 import os
+from sklearn.model_selection import train_test_split
+
 
 raw_target_data = pd.read_csv("../CSD20_Resident_Data_Phase_1.csv")
 #First predict the number of students in K
